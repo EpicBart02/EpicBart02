@@ -1,3 +1,6 @@
+
+<img src="https://github.com/EpicBart02/EpicBart02/assets/147999924/b916c477-6ced-49df-b463-a38c3532b57d" width="100%">
+
 ## Hello! My name is Abdulrahman Racheed (EpicBart02) and welcome to my GitHub!
 ### Currenty studying computer science with specialization in software development.
 
