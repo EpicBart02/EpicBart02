@@ -40,7 +40,7 @@
   * Learned how to manipulate address-, data- and control buses.
   * Developed programs using MicroPython and Assembly, integrating them into a Raspberry Pi Pico.
  
-* HTML / CSS
+* HTML / CSS / JavaScript
   * Developed various local websites.
     
 * UML
