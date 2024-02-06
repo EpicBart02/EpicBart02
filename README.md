@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on getting my bachelors degree.
 - 🌱 I’m currently learning Assembly.
-- 🤔 I’m planning on learning C++ and Unreal Engine.
+- 🤔 I’m planning on learning C++ and Typescript.
 - 📫 How to reach me: abdulracheed02@gmail.com
 
 ## Experience: 
