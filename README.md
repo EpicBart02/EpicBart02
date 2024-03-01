@@ -4,7 +4,7 @@
 ## Hello! My name is Abdulrahman Racheed (EpicBart02) and welcome to my GitHub!
 ### Currenty studying computer science with specialization in software development.
 
-- 🔭 I’m currently working on getting my bachelors degree in computer science with specialisation in sofware development.
+- 🔭 I’m currently working on getting my bachelors degree in CS with specialisation in Software Development.
 - 🌱 I’m currently learning Software Design.
 - 🤔 I’m planning on learning C++ and Typescript.
 - 📫 How to reach me: abdulracheed02@gmail.com
