@@ -4,9 +4,9 @@
 ## Hello! My name is Abdulrahman Racheed (EpicBart02) and welcome to my GitHub!
 ### Currenty studying computer science with specialization in software development.
 
-- 🔭 I’m currently working on getting my bachelors degree in CS with specialisation in Software Development.
-- 🌱 I’m currently learning Software Design.
-- 🤔 I’m planning on learning C++ and Typescript.
+- 🔭 I’m currently working on getting my bachelors degree in CS with specialization in Software Development.
+- 🌱 I’m currently learning various JavaScript frameworks.
+- 🤔 I’m planning on learning C++ and Flutter.
 - 📫 How to reach me: abdulracheed02@gmail.com
 
 ## Experience: 
@@ -15,12 +15,25 @@
     * Developed a cookbook application with Java and JavaFX, integrated with a database.
     * Designed and implemented a terminal-based monopoly game
     * Designed and implemented a terminal-based monopoly Blackjack game
+    * Developed Web-sockets, Trivial File Transfer protocol (TFTP) and a contigous memory allocation simulator.
     * and more...
 
-* SQL
+* SQL & MongoDB
   * Experienced in designing efficient database schemas.
   * Developed databases for diverse applications.
- 
+  * Developed a NoSQL/MongoDB database for a website-project.
+
+* JavaScript
+  * Developed with in various websites.
+  * Experience with various Javascript frameworks such as:
+    * Vue.js and Vue component frameworks.
+    * Express.js
+    * Node.js
+    * and more...
+
+* HTML / CSS 
+  * Developed various local websites.
+
 * Python
     * Learned how to implement various data structures such as Binary trees and Hashsets into python.
     * Learned different sorting algorithms.
@@ -40,9 +53,6 @@
   * Learned how to manipulate address-, data- and control buses.
   * Developed programs using MicroPython and Assembly, integrating them into a Raspberry Pi Pico.
  
-* HTML / CSS / JavaScript
-  * Developed various local websites.
-    
 * UML
     * Learned how to implement a large quantity of design patterns.
     * Learned how to create class, sequence, object and domain diagrams.
