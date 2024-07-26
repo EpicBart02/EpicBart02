@@ -1,65 +1,29 @@
 
 <img src="https://github.com/EpicBart02/EpicBart02/assets/147999924/b916c477-6ced-49df-b463-a38c3532b57d" width="100%">
 
-## Hello! My name is Abdulrahman Racheed (EpicBart02) and welcome to my GitHub!
-### Currenty studying computer science with specialization in software development.
+## Hello! My name is Abdulrahman (Epicbart02), and welcome to my Github!
+### Who am i?
 
 - 🔭 I’m currently working on getting my bachelors degree in CS with specialization in Software Development.
-- 🌱 I’m currently learning various JavaScript frameworks.
-- 🤔 I’m planning on learning C++ and Flutter.
-- 📫 How to reach me: abdulracheed02@gmail.com
+- 🎨 Fun fact about me, I love gaming and playing the guitar! 
+- 🤔 I’m planning on delving deeper into Software Architectures and Game Design.
+- 📫 How to reach me: [abdulracheed02@gmail.com](mailto:abdulracheed02@gmail.com)
 
-## Experience: 
+## Some notable projects i've worked on as a *Fullstack Developer*!
 
-* Java
-    * Developed a cookbook application with Java and JavaFX, integrated with a database.
-    * Designed and implemented a terminal-based monopoly game
-    * Designed and implemented a terminal-based monopoly Blackjack game
-    * Developed Web-sockets, Trivial File Transfer protocol (TFTP) and a contigous memory allocation simulator.
-    * and more...
+### TRAI (Trash Recycling AI) ![Nuxt](https://img.shields.io/badge/Nuxt3-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+Due to the high costs of incorrect waste separation worldwide, TRAI was developed as a solution. This AI-powered trash recycling aid encourages proper waste separation. The first launch will take place at Linnaeus University!
 
-* SQL & MongoDB
-  * Experienced in designing efficient database schemas.
-  * Developed databases for diverse applications.
-  * Developed a NoSQL/MongoDB database for a website-project.
+### Awaits (Academic Writing AI Tutoring System) ![Nuxt](https://img.shields.io/badge/Nuxt3-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+Awaits is an AI-driven, web-based tutoring system designed to promote transparency and integrate AI into academic writing. It enhances students writing skills by offering various improvement suggestions, helping them refine their work without directly providing solutions.
 
-* JavaScript
-  * Developed with in various websites.
-  * Experience with various Javascript frameworks such as:
-    * Vue.js and Vue component frameworks.
-    * Express.js
-    * Node.js
-    * and more...
+### Hackathon: Baltic Perspectives ![Nuxt](https://img.shields.io/badge/Nuxt3-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+In the summer of 2024, I joined a hackathon to bridge Baltic Sea borders with AI. We created a WhatsApp-like website where AI connects people by understanding current and past events and communicating across languages. This project celebrates unity and innovation in the Baltic region.
 
-* HTML / CSS 
-  * Developed various local websites.
+## Stay Tuned! I have interesting projects on the way
 
-* Python
-    * Learned how to implement various data structures such as Binary trees and Hashsets into python.
-    * Learned different sorting algorithms.
+### Personal Portfolio ![Nuxt](https://img.shields.io/badge/Nuxt3-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+My next personal project will be a custom-built website portfolio that's all about showcasing my artistic and nerdy side. Expect a mix of crazy, cool, and professional elements, creating a site that's as fun as it is polished. Stay tuned for a unique, eye-popping experience!
 
-* MicroPython
-  * Created a temperature and humidity sensor using the Raspberry Pi Pico, DHT11 sensor and micropython.
-  * You can find it [here](https://hackmd.io/@ar224ee/Sy2J7dWK2)
-
-* ARMv7 / ARMv6-M Assembly
-  * Created various programs such as:
-    * Traffic light simulation
-    * Looping timers ranging from 1 to 9.
-    * Lights with programmable on/off triggers.
-
-* Raspberry Pi
-  * Competent in microprocessors, memory systems, and memory handling.
-  * Learned how to manipulate address-, data- and control buses.
-  * Developed programs using MicroPython and Assembly, integrating them into a Raspberry Pi Pico.
- 
-* UML
-    * Learned how to implement a large quantity of design patterns.
-    * Learned how to create class, sequence, object and domain diagrams.
-
-* C#
-  * Created a simple pixelated dungeon-crawler game through unity.
- 
-* Bash
-   * Proficient in branch management and creating clean working environments to facilitate collaboration
-
+### The Archive ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+A personal project ive been planning for a long time is a game, called the Archive! It is a psychological horror game with visuals inspired by classic horror games like Silent Hill. Players explore diverse worlds by switching between VHS tapes, uncovering hidden truths and solving puzzles within the memories they contain. This game combines elements of horror, adventure, and puzzle-solving to reveal the haunting connections between memory and reality.
