@@ -4,7 +4,7 @@
 ## Hello! My name is Abdulrahman (Epicbart02), and welcome to my Github!
 ### Who am i?
 
-- 🔭 I’m currently working on getting my bachelors degree in CS with specialization in Software Development.
+- 🔭 I have graduated from Linnaeus University and received my bachelors degree in CS with specialization in Software Development in May 2025.
 - 🎨 Fun fact about me, I love gaming and playing the guitar! 
 - 🤔 I’m planning on delving deeper into Software Architectures and Game Design.
 - 📫 How to reach me: [abdulracheed02@gmail.com](mailto:abdulracheed02@gmail.com)
